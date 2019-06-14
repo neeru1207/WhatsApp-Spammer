@@ -1,5 +1,5 @@
 # WhatsApp-Spammer
-GUI based Automated spammer for WhatsApp.
+Windows GUI based Automated spammer for WhatsApp.
 ## Getting started
 ### Installing Python3
 You need to have Python 3 installed on your PC. If you don't, all you need to do is go to [https://www.python.org/downloads/](https://www.python.org/downloads/) and download the latest version of Python 
@@ -26,6 +26,7 @@ cd WhatsApp Spammer
 ```
 Now type:
 ```shell
-python run.py
+python Run.py
 ```
-to launch the application. You need to have an active internet connection and you need to scan the QR code within 20 seconds after pressing on the spam button for it to function.
+to launch the application. 
+You need to have an active internet connection and you need to scan the QR code within 20 seconds after pressing on the spam button for it to function.
