@@ -1,5 +1,7 @@
 # WhatsApp-Spammer
-Windows GUI based Automated spammer for WhatsApp.
+Windows GUI equipped Automated spammer for WhatsApp.
+## Disclaimer.
+This application is purely for learning purposes. Do not use it for wrong purposes such as harassing or spreading hate or spamming.
 ## Getting started
 ### Installing Python3
 You need to have Python 3 installed on your PC. If you don't, all you need to do is go to [https://www.python.org/downloads/](https://www.python.org/downloads/) and download the latest version of Python 
@@ -35,5 +37,8 @@ You need to have an active internet connection and you need to scan the QR code 
 ![alt text](https://github.com/neeru1207/WhatsApp-Spammer/blob/master/files/GUI.png)
 
 ## Working
-This application uses Selenium web automation. Based on the data entered by the user, the application opens a web browser and once the user logs into his/her WhatsApp Web, finds the target and spams the message the desired number of times.
-This is purely for educational purpose and is not intended to be used for other purposes.
+This application uses Selenium web automation. 
+Based on the data entered by the user, the application opens a web browser and once the user logs into his/her WhatsApp Web, finds the target and spams the message the desired number of times.
+
+## Contributing
+Feel free to open a pull request if any bugs are found or something can be improved.
